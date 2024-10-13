@@ -4,7 +4,7 @@ Jupyter+R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/binder-examples-r.git/HEAD?urlpath=rstudio)
 
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/binder-examples-r.git/HEAD?urlpath=shiny/bus-dashboard/)
+RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ml4economics/binder-examples-r.git/HEAD?urlpath=shiny/shiny-app/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
